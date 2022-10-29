@@ -1,1 +1,0 @@
-# joelsayavedra.github.io
