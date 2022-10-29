@@ -1,0 +1,22 @@
+{
+    // Customizations
+    "window.autoDetectColorScheme": false,
+    "window.titleSeparator": " 🎃 ",
+    "window.zoomLevel": 0,
+    "workbench.activityBar.visible": true,
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#3b0000",
+        "titleBar.inactiveBackground": "#3b0000"
+    },
+    "editor.tokenColorCustomizations": {
+        // "[Dark High Contrast]": {
+        //     "comments": "#d4922f"
+        // },
+        "textMateRules": [{
+            "scope": "comment.block.documentation",
+            "settings": {
+                "foreground": "#cf4444"
+            }
+        }]
+    }
+}
